@@ -1,2 +1,2 @@
-# space-station-locator
-Small script to locate the ISS and have an AI response describing the location it is above. Uses Retort.js
+# retort-scripts
+Scripts that use the Retort language to perform task with the aide of AI. Uses Retort.js
